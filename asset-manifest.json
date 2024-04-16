@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tlsimulator/static/css/main.a47206dc.css",
+    "main.js": "/tlsimulator/static/js/main.02e1bf9d.js",
+    "index.html": "/tlsimulator/index.html",
+    "main.a47206dc.css.map": "/tlsimulator/static/css/main.a47206dc.css.map",
+    "main.02e1bf9d.js.map": "/tlsimulator/static/js/main.02e1bf9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a47206dc.css",
+    "static/js/main.02e1bf9d.js"
+  ]
+}
